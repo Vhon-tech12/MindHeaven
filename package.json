@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@angular/cli": "20.3.9"
+  },
+  "dependencies": {
+    "@angular/fire": "^20.0.1",
+    "firebase": "^11.10.0"
+  }
+}
